@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class cddb {
+public class database {
 
 	private static String file_read = "";
 	private static String Artist ="";
